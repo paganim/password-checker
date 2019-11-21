@@ -16,6 +16,6 @@ python checkmypass.py <password> <password2> ..................
 # What did I learn?
 I learned:
 1. How to get data using API with requests module
-2. How to hash a password with hashlib
+2. How to hash a password with hashlib module
 3. How to use sys module
 4. How to raise an error
