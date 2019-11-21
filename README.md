@@ -5,7 +5,7 @@ This is a password checker using API.
 Perform these steps:
 ```
 Fork this repo
-Clone this repo
+clone this repo
 cd password-checker
 ```
 On terminal run this command:
